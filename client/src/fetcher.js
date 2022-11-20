@@ -13,3 +13,8 @@ const getCompanyRegionRecommendation = async(major) => {
     })
     return res.json()
 }
+
+export{
+    getCompanyCategoryRecommendation,
+    getCompanyCategoryRecommendation
+}
