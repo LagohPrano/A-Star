@@ -16,5 +16,5 @@ const getCompanyRegionRecommendation = async(major) => {
 
 export{
     getCompanyCategoryRecommendation,
-    getCompanyCategoryRecommendation
+    getCompanyRegionRecommendation
 }
