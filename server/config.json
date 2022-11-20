@@ -1,9 +1,9 @@
 {
-    "rds_host": "",
-    "rds_port": "",
-    "rds_user": "",
-    "rds_password" : "",
-    "rds_db": "",
-    "server_host": "",
-    "server_port":""
+    "rds_host": "start-up-analysis.cguvc4q3deru.us-west-2.rds.amazonaws.com",
+    "rds_port": "3306",
+    "rds_user": "admin",
+    "rds_password" : "startupanalysispassword",
+    "rds_db": "START_UP",
+    "server_host": "127.0.0.1", 
+    "server_port":"8080"
 }
